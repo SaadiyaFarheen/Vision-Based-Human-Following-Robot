@@ -87,37 +87,45 @@ Vision-Based-Human-Following-Robot
 
 ---
 
-## Final Robot Prototype
+## Project Images
 
-![Robot Hardware](images/robot.jpg)
-
+### Final Robot Prototype
 
 ---
 
+![Robot Hardware](images/robot.jpeg)
 
-## Hardware Block Diagram
+---
+
+### Hardware Setup
+
+---
+
+![Hardware Setup](images/hardware_setup.jpeg)
+
+---
+
+### Human Detection Output
+
+---
+
+![Detection Output](images/detection_output.png)
+
+---
+
+### Hardware Block Diagram
+
+---
 
 ![Block Diagram](images/block_diagram.png)
 
+---
+
+### Circuit Diagram
 
 ---
 
-## Circuit Diagram
-
-Add your circuit diagram image here.
-
-![Circuit Diagram](images/circuit_diagram.png)
-
-
----
-
-## Human Detection Output
-
-Real-time human detection using TensorFlow Lite running on Raspberry Pi 4B.
-
-
-![Detection Output](images/detection_output.jpg)
-
+![Circuit Diagram](images/circuit_diagram.jpeg)
 
 ---
 
