@@ -1,0 +1,15 @@
+opencv-python
+numpy
+Pillow
+picamera2
+RPi.GPIO
+tflite-runtime
+
+Installation:
+
+Install the required Python packages:
+
+pip install -r requirements.txt
+
+Note:
+This project is designed for Raspberry Pi OS. Some packages such as RPi.GPIO, picamera2, and tflite-runtime may require installation through Raspberry Pi repositories and their versions may vary depending on the Raspberry Pi OS and Python version being used.
